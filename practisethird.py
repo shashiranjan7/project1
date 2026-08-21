@@ -21,7 +21,15 @@ print(grade.count("b"))
 print(grade.count("c"))
 print(grade.count("d"))
 grade.sort()
-print(grade) 
+print(grade)
+import datetime
+print(datetime.datetime.now())
+import math
+y= math.sqrt(56)
+print(type(y))
+print(math.pi)
+print(y)
+print("thank you")
 
 
 
