@@ -22,7 +22,8 @@ print(grade.count("c"))
 print(grade.count("d"))
 grade.sort()
 print(grade) 
-
+print("there is no tomorrow")
+print("do it now")
 
 
 
